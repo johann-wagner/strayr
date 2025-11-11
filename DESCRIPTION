@@ -13,7 +13,7 @@ Authors@R: c(person("Will", "Mackey", email = "wfmackey@gmail.com", role = c("au
         person("Bas", "Latcham", role = "ctb"),
         person("Rex", "Parsons", role = "ctb", comment = c(ORCID = "0000-0002-6053-8174")),
         person("Pete", "Owen", role = "ctb"),
-        person("Johan", "Wagner", role = "ctb")
+        person("Johann", "Wagner", role = "ctb")
         )
 Maintainer: Will Mackey <wfmackey@gmail.com>
 License: GPL-3
